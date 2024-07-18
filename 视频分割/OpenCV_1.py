@@ -1,0 +1,4 @@
+if False:
+    print("刘忠豪")
+else:
+    print("1比2大bvhfhhvhbfbbvhggbhhgyfuyeufdfdyydfyftg cvbbvbbcjhxkxjgcfdfhhdduhfiufjhforhfdjg  hfvhfbvfdfyrtffffffgrfgygygfyruyefhfhfifggfhfgvfbj bghv vhff hfhfffghf oguffjdhgghgfbtgufgfy hghhghjfh gbhvghgh ghkhghgnhgh bjgfhvgfggfhvhfffvffffffffhdfhuhuhdhurfughbgjtuhgutyyuyrtyweucidsoofpdsdhfjklkcjnvnm,ncnzdjhdcasuaeuwteyt   ggtuygfhfjhjvbfv b hb    gvftfgfedfjfuifutrewwetfdfcgygffggggfgffffgvgu0eefruyiuguokiokilhgjhjhjkmnkbj bjhkynjjjhhjhjnjihjktolknokypkjkuokjkmklj';hlmkpnjlkmoljll,mkjkhhghlmnfazxcsdwfmvbhmnvc jvnnf  vnvvvbncn fvknmkjhjhjhhbh     vvkbklfnvjnbhufyyufyryutyruutubguuutijtrkuejjfnnbfudtfyyfwuewpdswpifgydhffhyyeueyjgagggjggaaaajcfgyywttyrfhggdewxgxgsg sg")

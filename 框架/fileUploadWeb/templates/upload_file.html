@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>上传文件</title>
+</head>
+<body>
+<form enctype="multipart/form-data" method="post" action="/upload/">
+    <center>
+    <div>请上传文件!</div>
+    <input type="file" name="upload_file"><br><br>   {# 注意这里的name="upload_file"必须跟app.py中flask.request.files["upload_file"]的名字一样 #}
+    <input type="submit" style="border:none; width:100px; height:50px; background:#7c5434; color:#fff; font-size:18px;"  value="确定上传">
+    </center>
+</form>
+</body>
+</html>
